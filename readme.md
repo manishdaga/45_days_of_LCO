@@ -1,6 +1,6 @@
 
 # Python with Machine Learning, Data Science In 45 Days
-## In Thease 45 Days I have created Some Projects from Basic of Python to opencv,MachineLearning,GUI Application and WebScraping and DeepLearning and so on. So In this Repository i will walk throw how do you I Created This Projects.
+## These 45 Days I have created Some Projects from Basic of Python to OpenCV,MachineLearning, GUI Application, and web scraping and DeepLearning and so on. So In this Repository, I will walk throw how do you I Created This Projects.
 
 # Basic Of Python
 1. [Python Basic Refrence](/Python/PythonBasicRefrence.ipynb)
